@@ -1,6 +1,6 @@
 [submodule "coursedb"]
 	path = coursedb
-	url = https://github.com/thaiv28/UCSC-Course-DB
+	url = https://github.com/thaiv28/coursedb
 [submodule "ucscplanner"]
 	path = ucscplanner
 	url = https://github.com/thaiv28/ucscplanner
